@@ -9,7 +9,7 @@
 
 - 📚 Constantly learning and staying up-to-date with the ever-evolving tech ecosystem.
 
-- 🔭 I’m currently working on [Cinema-Buff](https://github.com/eyeganeshgupta/cinema-buff)
+- 🔭 I’m currently working on [convo - messaging app](https://github.com/eyeganeshgupta/convo)
 
 - 👨‍💻 All of my projects are available at [https://github.com/eyeganeshgupta](https://github.com/eyeganeshgupta)
 
@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **eyeganeshgupta@gmail.com**
 
-- 📄 Know about my experiences [https://closet-heaven.netlify.app/](https://closet-heaven.netlify.app/)
+- 📄 Know about my experiences [https://github.com/eyeganeshgupta](https://github.com/eyeganeshgupta)
 
-- ⚡ Fun fact **I use tabs over spaces**
+- ⚡ Fun fact **I'm on a mission to keep my GitHub contributions as green as my love for coding.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
