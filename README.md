@@ -1,19 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Ganesh</h1>
 <h3 align="center">I'm a 🚀 Full-stack Web Developer | 💻 JavaScript Enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/emganeshgupta" target="blank"><img src="https://img.shields.io/twitter/follow/emganeshgupta?logo=twitter&style=for-the-badge" alt="emganeshgupta" /></a> </p>
+<p align="left"> <a href="https://x.com/eyeganeshgupta" target="blank"><img src="https://img.shields.io/twitter/follow/emganeshgupta?logo=twitter&style=for-the-badge" alt="eyeganeshgupta" /></a> </p>
 
-- 👨‍💻 I'm **Full-stack JavaScript Developer** with a love for crafting clean and efficient code.
+- 👨‍💻 I'm **Full-stack Java && JavaScript Developer** with a love for crafting clean and efficient code.
 
 - 🌐 Building web applications that not only solve problems but also delight users.
 
 - 📚 Constantly learning and staying up-to-date with the ever-evolving tech ecosystem.
 
-- 🔭 I’m currently working on [convo - messaging app](https://github.com/eyeganeshgupta/convo)
+- 🔭 I’m currently working on [echo-social-media-web-app](https://github.com/eyeganeshgupta/echo)
 
 - 👨‍💻 All of my projects are available at [https://github.com/eyeganeshgupta](https://github.com/eyeganeshgupta)
 
-- 💬 Ask me about **javascript, react and node**
+- 💬 Ask me about **Java SE, Jakarta EE, Javascript, TypeScript React and Node**
 
 - 📫 How to reach me **eyeganeshgupta@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/emganeshgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emganeshgupta" height="30" width="40" /></a>
+<a href="https://x.com/eyeganeshgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emganeshgupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eyeganeshgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyeganeshgupta" height="30" width="40" /></a>
 <a href="https://fb.com/eyeganeshgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eyeganeshgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/eyeganeshgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyeganeshgupta" height="30" width="40" /></a>
