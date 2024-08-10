@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ganesh</h1>
 <h3 align="center">I'm a 🚀 Full-stack Web Developer | 💻 JavaScript Enthusiast</h3>
 
-<p align="left"> <a href="https://x.com/eyeganeshgupta" target="blank"><img src="https://img.shields.io/twitter/follow/emganeshgupta?logo=twitter&style=for-the-badge" alt="eyeganeshgupta" /></a> </p>
+<p align="left"> <a href="https://x.com/eyeganeshgupta" target="blank"><img src="https://img.shields.io/twitter/follow/eyeganeshgupta?logo=twitter&style=for-the-badge" alt="eyeganeshgupta" /></a> </p>
 
 - 👨‍💻 I'm **Full-stack Java && JavaScript Developer** with a love for crafting clean and efficient code.
 
@@ -9,7 +9,7 @@
 
 - 📚 Constantly learning and staying up-to-date with the ever-evolving tech ecosystem.
 
-- 🔭 I’m currently working on [echo-social-media-web-app](https://github.com/eyeganeshgupta/echo)
+- 🔭 I’m currently working on [Spring Framework](https://github.com/eyeganeshgupta/spring-learning-phase)
 
 - 👨‍💻 All of my projects are available at [https://github.com/eyeganeshgupta](https://github.com/eyeganeshgupta)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **eyeganeshgupta@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/eyeganeshgupta](https://github.com/eyeganeshgupta)
+- 📄 Know about my experiences [https://about-ganesh.vercel.app/](https://about-ganesh.vercel.app/)
 
 - ⚡ Fun fact **I'm on a mission to keep my GitHub contributions as green as my love for coding.**
 
